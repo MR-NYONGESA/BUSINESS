@@ -1,0 +1,105 @@
+alert('test')
+
+//Metatags are extremely useful to developers. There are two types of metatags; NAME and HTTP-EQUIV.
+///NAME tags describe the creator, description, keywords, and the source of the page.
+///HTTP-EQUIV tags control or direct the action of web browsers by sending sending the additional the Web server.
+
+///Refreshing a Web page after a given interval
+//<META HTTP-EQUIV="REFRESH" CONTENT="10">
+//if you want to log out users off if they don't perform any action within a specified interval of time then
+//<META HTTP-EQUIV="REFRESH" CONTENT="300; URL=auto_logoff">
+
+//Another method of forcing a refresh of a specific page to age or expire the current page. At the desired expiration time/date, the browser will automatically refresh the page and no longer display the expired page.
+//Also used when you don't want to users to navigate "home/back" to the current page.
+//<META HTTP-EQUIV="Expires" CONTENT="Sun, 01 Jan 1970 00:00:00 GMT">  Note: Timestamp must be in the format: "Sun, 01 Jan 1970 00:00 GMT". 
+
+//To display the current date and time on a webpage
+    //<SCRIPT LANGUAGE="JavaScript">
+    //    document.write(today);
+    //</SCRIPT>
+
+    const language=("JavaScript1.2")
+    // Get the current date and time
+
+    if (value === 1) {//-
+    if (typeof value !== 'undefined' && value === 1) {//+
+ {`9fab7517-fefa-4020-827b-532e0b09fade`=="conversationId","source"=="instruct"};
+    } 
+    else {
+        /* alert("The page is about to be redirected.");
+         break;*/
+        alert("vale is not 1")
+    }
+
+            navigator.appVersion
+
+           
+            
+}
+const styles = StyleSheet.create({
+
+    container: {
+        flex: 1,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
+    button: {
+        padding: 10,
+        backgroundColor: '#4CAF50',
+        borderRadius: 5,
+        color: '#fff',
+        fontSize: 18,
+        fontWeight: 'bold',
+        textAlign: 'center',
+    },
+    text: {
+        marginTop: 20,
+        fontSize: 18,
+        fontWeight: 'bold',
+    },
+});
+
+
+
+if (parent.frames[1])
+parent.location.href = self.location.href;
+<a href="javascript"></a>
+
+// Create a new link element
+
+const par = document.querySelectorAll("p.main");
+
+const pars = document.querySelectorAll("p.main");
+
+if (pars.length > 1) {
+    pars[1].style.background = "green";
+    pars[1].style.fontSize = "2em";
+}
+      pars[1].style.fontSize = "2em";
+
+      
+// Fixed line: Remove the redeclaration of 'pars' variable
+// const pars = document.querySelectorAll("p.main");
+
+// Corrected code:
+
+
+
+if (pars.length > 1) {
+    pars[1].style.background = "green";
+    pars[1].style.fontSize = "2em";
+}
+
+      const Business = document.querySelector("button");
+      Business.addEventListener("click", );
+      Business.addEventListener("keyup", );
+
+
+
+
+
+
+
+
+
